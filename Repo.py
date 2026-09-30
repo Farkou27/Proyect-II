@@ -2,7 +2,7 @@
 nombre = input("¿Cómo TE GUSTAN?: ")
 
 # Pedimos el año de nacimiento y lo convertimos a un número entero (int)
-anio_nacimiento = int(input("¿En qué año naciste?: "))
+anio_nacimiento = int(input("¿En qué año se murio, responde?: "))
 
 # Calculamos la edad restando el año de nacimiento al año actual (2026)
 anio_actual = 2026
