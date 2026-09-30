@@ -1,5 +1,5 @@
 # Pedimos el nombre al usuario
-nombre = input("¿Cómo te llamas?: ")
+nombre = input("¿Cómo TE GUSTAN?: ")
 
 # Pedimos el año de nacimiento y lo convertimos a un número entero (int)
 anio_nacimiento = int(input("¿En qué año naciste?: "))
