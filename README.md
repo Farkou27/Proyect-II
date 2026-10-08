@@ -1,1 +1,7 @@
-HOLAAAAAAAAA
+DIVISIÓN  
+- Franco ->
+- Jhoan ->
+- Cass ->
+- Mirko ->
+- ...
+- 
